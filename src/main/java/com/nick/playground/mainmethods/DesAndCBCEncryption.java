@@ -13,7 +13,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
 
-public class DESorCBCEncryption {
+public class DesAndCBCEncryption {
     public static void main(String[] args) throws Exception {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
         Date dt = new Date();
